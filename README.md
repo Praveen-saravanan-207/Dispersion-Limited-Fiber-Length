@@ -38,5 +38,26 @@ Using the chromatic dispersion factor equation, determine the dispersion of the 
 1550 nm and set the fiber dispersion parameter accordingly. 
 Using the equations above, determine the dispersion-limited fiber length. 
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
-# Tabulation
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/7c5343b9-ffb9-45b8-905c-bbb628784aca" /> 
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/ef9f2618-f624-4006-af72-3f28a6c29a42" /> 
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/690aaa1b-281a-43e8-adb4-22fa6b024b3a" /> 
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/22c9db43-43df-4515-b421-c2951a4959f3" /> 
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/2f442f9c-4569-4b38-b685-660b9609ca22" />
+
+
+
+
+
+
+# Calculation
+<img width="1429" height="1600" alt="image" src="https://github.com/user-attachments/assets/274acaee-14da-43fd-92d1-2f6c3e9341b1" />
+<img width="986" height="1496" alt="image" src="https://github.com/user-attachments/assets/b16f92a2-4cd2-4482-839b-f5785f69fb80" />
+
+
+
+
+
 # Result
+Hence the dispersion-limited fiber length for a fiber optic transport system that 
+employs standard single-mode fiber and a directly-modulated single-mode laser diode 
+transmitter is calculated. 
